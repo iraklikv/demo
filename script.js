@@ -129,7 +129,7 @@ const mariamiAge = thisYear - 2004;
 //     }
 // } else {
 //     console.log('above twentyone');
-// }  
+// }
 
 // console.log('end of if statement');
 
